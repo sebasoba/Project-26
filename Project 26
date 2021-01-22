@@ -1,0 +1,8 @@
+Last login: Fri Jan 22 04:38:12 on console
+sebastianfranciosi@Sebastians-MBP ~ % MINGW64/Desktop/Projects/Recipies 
+zsh: no such file or directory: MINGW64/Desktop/Projects/Recipies
+sebastianfranciosi@Sebastians-MBP ~ % MINGW64 /Desktop/PRO Projects/myRecipes
+zsh: command not found: MINGW64
+sebastianfranciosi@Sebastians-MBP ~ % /Desktop/PRO Projects/myRecipes/Red-Velvet-Cake
+zsh: no such file or directory: /Desktop/PRO
+sebastianfranciosi@Sebastians-MBP ~ % 
